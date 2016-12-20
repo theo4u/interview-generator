@@ -18,7 +18,7 @@
 
 
 	<script>
-		const company = 'EventMobi';
+		const company = 'Cryogenic Robotics';
 
 		const allQuestions = [
 			'What are your strengths?',
