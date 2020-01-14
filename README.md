@@ -15,7 +15,7 @@ Once you have a build, you should be able to just open *index.html* directly in 
 
 ## Why?
 
-I wanted to help out my girlfriend prepare for an interview, and I've playing around with [Riot](http://riotjs.com/) recently. After putting it together pretty quickly (it has only one source file), I decided to use it as a playground to test out some ideas.
+I wanted to help out my girlfriend prepare for an interview, and I've playing around with [Riot](https://riot.js.org/) recently. After putting it together pretty quickly (it has only one source file), I decided to use it as a playground to test out some ideas.
 
 I've been wanting to find ways to dramatically simplify and speed up my front-end development stack, while still keeping the most useful features of the different tools I've used in the past few years.
 
